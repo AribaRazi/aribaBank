@@ -1,6 +1,7 @@
 
 
-Welcome to **aribaBank**, a beginner-friendly **Solidity smart contract** project that demonstrates how a **decentralized on-chain banking system** can work transparently and securely on the blockchain.
+Welcome to **aribaBank**, a beginner-friendly **Solidity smart contract** project that demonstrates how a **decentralized on-chain banking system** can work transparently and securely on the blockchain.![Uploading Screenshot (119).png…]()
+
 
 ---
 
